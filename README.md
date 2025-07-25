@@ -30,6 +30,7 @@ JavaScript for basic interactivity and animations
 Hosting
 This website is hosted on GitHub Pages.
 To view the website live, go to:
+https://github.com/Mosomi24/Monicah_Portfolio/tree/86c854db71f3adeee30073cb598cb019f5ff4189
 
 About Me
 
